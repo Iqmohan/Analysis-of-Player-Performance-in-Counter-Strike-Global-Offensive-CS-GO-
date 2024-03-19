@@ -1,0 +1,2 @@
+# Analysis-of-Player-Performance-in-Counter-Strike-Global-Offensive-CS-GO-
+Counter-Strike: Global Offensive (CS:GO) is a popular multiplayer first-person shooter game known for its competitive gameplay and vibrant esports scene. This project aims to analyze player performance data from CS:GO matches to gain insights into various aspects of gameplay, such as individual player statistics, team performance, map preference.
